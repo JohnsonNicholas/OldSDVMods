@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Unoffical Stardew Valley Patch",
+  "Author": "knakamura",
+  "Version": "0.4-alpha.14",
+  "Description": "This patches issues with the game",
+  "UniqueID": "knakamura.unofficialpatch",
+  "EntryDll": "USDVP.dll",
+  "UpdateKeys": [ "Nexus:Fake" ]
+}
